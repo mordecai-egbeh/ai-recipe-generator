@@ -1,3 +1,4 @@
+HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+
+# ai-recipe-generator
+AI Recipe Generator
+98538ace1ed41aa4df9f6ea53b208c46f474823f
